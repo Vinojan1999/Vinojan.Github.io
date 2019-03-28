@@ -1,0 +1,26 @@
+h1 {
+  text-align:center;
+}
+
+div.a {
+  border: 1px solid black;
+  width: 630px;
+  height: 570px;
+  background-color: #1ECBFF;
+}
+
+h2 {
+    width: 105px;
+    margin-top: -14px;
+    margin-left: 30px;
+    background-color: #1ECBFF;
+    font-size: 23px
+}
+
+tr {
+  text-align: left;
+}
+
+td {
+  padding: 10px;
+}
